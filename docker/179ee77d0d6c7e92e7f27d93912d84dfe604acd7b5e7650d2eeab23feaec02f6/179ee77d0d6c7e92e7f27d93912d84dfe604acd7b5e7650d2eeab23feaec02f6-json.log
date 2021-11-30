@@ -1,0 +1,36 @@
+{"log":"PING google.com (74.125.205.113) 56(84) bytes of data.\n","stream":"stdout","time":"2021-11-30T11:50:19.081133843Z"}
+{"log":"64 bytes from le-in-f113.1e100.net (74.125.205.113): icmp_seq=1 ttl=127 time=47.1 ms\n","stream":"stdout","time":"2021-11-30T11:50:19.081169591Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:19.081174728Z"}
+{"log":"--- google.com ping statistics ---\n","stream":"stdout","time":"2021-11-30T11:50:19.081176812Z"}
+{"log":"1 packets transmitted, 1 received, 0% packet loss, time 0ms\n","stream":"stdout","time":"2021-11-30T11:50:19.081178718Z"}
+{"log":"rtt min/avg/max/mdev = 47.082/47.082/47.082/0.000 ms\n","stream":"stdout","time":"2021-11-30T11:50:19.081180619Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:19.116433242Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:19.116462787Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:19.116467596Z"}
+{"log":"PING google.com (74.125.205.102) 56(84) bytes of data.\n","stream":"stdout","time":"2021-11-30T11:50:29.544967509Z"}
+{"log":"64 bytes from le-in-f102.1e100.net (74.125.205.102): icmp_seq=1 ttl=127 time=47.6 ms\n","stream":"stdout","time":"2021-11-30T11:50:29.544991591Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:29.544994567Z"}
+{"log":"--- google.com ping statistics ---\n","stream":"stdout","time":"2021-11-30T11:50:29.544996513Z"}
+{"log":"1 packets transmitted, 1 received, 0% packet loss, time 0ms\n","stream":"stdout","time":"2021-11-30T11:50:29.544998426Z"}
+{"log":"rtt min/avg/max/mdev = 47.646/47.646/47.646/0.000 ms\n","stream":"stdout","time":"2021-11-30T11:50:29.545000317Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:29.545550048Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:29.545561894Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:29.545564643Z"}
+{"log":"PING google.com (74.125.205.102) 56(84) bytes of data.\n","stream":"stdout","time":"2021-11-30T11:50:39.712405358Z"}
+{"log":"64 bytes from le-in-f102.1e100.net (74.125.205.102): icmp_seq=1 ttl=127 time=36.4 ms\n","stream":"stdout","time":"2021-11-30T11:50:39.712431398Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:39.712434595Z"}
+{"log":"--- google.com ping statistics ---\n","stream":"stdout","time":"2021-11-30T11:50:39.712436865Z"}
+{"log":"1 packets transmitted, 1 received, 0% packet loss, time 0ms\n","stream":"stdout","time":"2021-11-30T11:50:39.712439036Z"}
+{"log":"rtt min/avg/max/mdev = 36.446/36.446/36.446/0.000 ms\n","stream":"stdout","time":"2021-11-30T11:50:39.712441167Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:39.712803983Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:39.712812596Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:39.712815114Z"}
+{"log":"PING google.com (74.125.205.102) 56(84) bytes of data.\n","stream":"stdout","time":"2021-11-30T11:50:49.891347864Z"}
+{"log":"64 bytes from le-in-f102.1e100.net (74.125.205.102): icmp_seq=1 ttl=127 time=46.2 ms\n","stream":"stdout","time":"2021-11-30T11:50:49.891379485Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:49.891384983Z"}
+{"log":"--- google.com ping statistics ---\n","stream":"stdout","time":"2021-11-30T11:50:49.891388809Z"}
+{"log":"1 packets transmitted, 1 received, 0% packet loss, time 0ms\n","stream":"stdout","time":"2021-11-30T11:50:49.891392358Z"}
+{"log":"rtt min/avg/max/mdev = 46.215/46.215/46.215/0.000 ms\n","stream":"stdout","time":"2021-11-30T11:50:49.891395815Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:49.89165124Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:49.891659295Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:49.891661789Z"}

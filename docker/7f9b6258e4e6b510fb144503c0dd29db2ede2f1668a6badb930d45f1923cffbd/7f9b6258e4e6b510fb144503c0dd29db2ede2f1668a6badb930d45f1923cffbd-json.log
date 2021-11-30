@@ -1,0 +1,68 @@
+{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","time":"2021-11-30T11:50:19.279447676Z"}
+{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","time":"2021-11-30T11:50:19.279470536Z"}
+{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   219    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr","time":"2021-11-30T11:50:19.540989562Z"}
+{"log":"HTTP/1.1 301 Moved Permanently\r\n","stream":"stdout","time":"2021-11-30T11:50:19.5410704Z"}
+{"log":"Location: http://www.google.com/\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541080938Z"}
+{"log":"Content-Type: text/html; charset=UTF-8\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541083966Z"}
+{"log":"Date: Tue, 30 Nov 2021 11:50:19 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541086011Z"}
+{"log":"Expires: Thu, 30 Dec 2021 11:50:19 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541087923Z"}
+{"log":"Cache-Control: public, max-age=2592000\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541089787Z"}
+{"log":"Server: gws\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541091696Z"}
+{"log":"Content-Length: 219\r\n","stream":"stdout","time":"2021-11-30T11:50:19.54109355Z"}
+{"log":"X-XSS-Protection: 0\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541095446Z"}
+{"log":"X-Frame-Options: SAMEORIGIN\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541097266Z"}
+{"log":"\r\n","stream":"stdout","time":"2021-11-30T11:50:19.541099085Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:19.5450008Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:19.545020469Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:19.545024273Z"}
+{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","time":"2021-11-30T11:50:29.554877714Z"}
+{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","time":"2021-11-30T11:50:29.554898809Z"}
+{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   219    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr","time":"2021-11-30T11:50:29.801321304Z"}
+{"log":"HTTP/1.1 301 Moved Permanently\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801326109Z"}
+{"log":"Location: http://www.google.com/\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801353535Z"}
+{"log":"Content-Type: text/html; charset=UTF-8\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801355629Z"}
+{"log":"Date: Tue, 30 Nov 2021 11:50:29 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801357552Z"}
+{"log":"Expires: Thu, 30 Dec 2021 11:50:29 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801359497Z"}
+{"log":"Cache-Control: public, max-age=2592000\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801361362Z"}
+{"log":"Server: gws\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801363212Z"}
+{"log":"Content-Length: 219\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801365058Z"}
+{"log":"X-XSS-Protection: 0\r\n","stream":"stdout","time":"2021-11-30T11:50:29.80136694Z"}
+{"log":"X-Frame-Options: SAMEORIGIN\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801368858Z"}
+{"log":"\r\n","stream":"stdout","time":"2021-11-30T11:50:29.801370684Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:29.802472212Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:29.802479867Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:29.802482144Z"}
+{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","time":"2021-11-30T11:50:39.81047692Z"}
+{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","time":"2021-11-30T11:50:39.81050099Z"}
+{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   219    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr","time":"2021-11-30T11:50:40.065462314Z"}
+{"log":"HTTP/1.1 301 Moved Permanently\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065491831Z"}
+{"log":"Location: http://www.google.com/\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065506085Z"}
+{"log":"Content-Type: text/html; charset=UTF-8\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065508247Z"}
+{"log":"Date: Tue, 30 Nov 2021 11:50:39 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065510126Z"}
+{"log":"Expires: Thu, 30 Dec 2021 11:50:39 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065512001Z"}
+{"log":"Cache-Control: public, max-age=2592000\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065513866Z"}
+{"log":"Server: gws\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065515726Z"}
+{"log":"Content-Length: 219\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065517549Z"}
+{"log":"X-XSS-Protection: 0\r\n","stream":"stdout","time":"2021-11-30T11:50:40.06551939Z"}
+{"log":"X-Frame-Options: SAMEORIGIN\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065521294Z"}
+{"log":"\r\n","stream":"stdout","time":"2021-11-30T11:50:40.065523118Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:40.066544836Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:40.066555661Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:40.066558642Z"}
+{"log":"  % Total    % Received % Xferd  Average Speed   Time    Time     Time  Current\n","stream":"stderr","time":"2021-11-30T11:50:50.075112044Z"}
+{"log":"                                 Dload  Upload   Total   Spent    Left  Speed\n","stream":"stderr","time":"2021-11-30T11:50:50.075136062Z"}
+{"log":"\r  0     0    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   219    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\r  0   219    0     0    0     0      0      0 --:--:-- --:--:-- --:--:--     0\n","stream":"stderr","time":"2021-11-30T11:50:50.325838175Z"}
+{"log":"HTTP/1.1 301 Moved Permanently\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325864529Z"}
+{"log":"Location: http://www.google.com/\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325867979Z"}
+{"log":"Content-Type: text/html; charset=UTF-8\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325870555Z"}
+{"log":"Date: Tue, 30 Nov 2021 11:50:50 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:50.32587272Z"}
+{"log":"Expires: Thu, 30 Dec 2021 11:50:50 GMT\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325874944Z"}
+{"log":"Cache-Control: public, max-age=2592000\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325877088Z"}
+{"log":"Server: gws\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325879252Z"}
+{"log":"Content-Length: 219\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325881354Z"}
+{"log":"X-XSS-Protection: 0\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325883494Z"}
+{"log":"X-Frame-Options: SAMEORIGIN\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325885618Z"}
+{"log":"\r\n","stream":"stdout","time":"2021-11-30T11:50:50.325887735Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:50.327019297Z"}
+{"log":"##############################\n","stream":"stdout","time":"2021-11-30T11:50:50.327031698Z"}
+{"log":"\n","stream":"stdout","time":"2021-11-30T11:50:50.327034761Z"}
