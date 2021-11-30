@@ -1,0 +1,33 @@
+version: "3"
+services:
+  http-request:
+    image: http-request:v1
+    container_name: 'http-requestnew'
+    volumes: 
+      - /volume-container:/home/
+  ping:
+    image: ping:v1
+    container_name: 'pingnew'
+    volumes: 
+      - /volume-container:/home/  
+  dbredis:
+    image: dbredis:v1
+    container_name: 'dbredisnew'
+    ports: 
+      - "33060"
+    volumes: 
+      - /volume-container:/home/  
+  webservc:
+    image: webservc:v1
+    container_name: 'webservcnew'
+    ports:
+      - "8080"
+    volumes: 
+      - /volume-container:/home/  
+  goclt:
+    image: goclt:v1
+    container_name: 'gocltnew'
+    volumes: 
+      - /volume-container:/home/  
+volumes:
+  volume-container:
