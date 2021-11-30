@@ -1,0 +1,9 @@
+- list: commands
+  items: [sudo, su, ls, pwd]
+
+- rule: commands
+  desc: Escape from container
+  condition: (proc.name in (commands) and syscall.type = procexit)
+  output: user:%user.name command:%proc.name container:%container.id syscall:%syscall.type
+  priority: WARNING
+  
