@@ -1,0 +1,8 @@
+# -------------  Dockerfile --------------
+FROM ubuntu:latest
+RUN mkdir -p /usr/ping
+COPY . /usr/ping
+RUN apt-get update && apt-get upgrade -y 
+RUN apt install iputils-ping -y
+WORKDIR /usr/ping
+CMD ["./script.sh"]

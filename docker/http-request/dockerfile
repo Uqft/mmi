@@ -1,0 +1,8 @@
+# -------------  Dockerfile --------------
+FROM ubuntu:latest
+RUN mkdir -p /usr/http-request
+COPY . /usr/http-request
+RUN apt-get update && apt-get upgrade -y 
+RUN apt-get install curl -y
+WORKDIR /usr/http-request
+CMD ["./script.sh"]

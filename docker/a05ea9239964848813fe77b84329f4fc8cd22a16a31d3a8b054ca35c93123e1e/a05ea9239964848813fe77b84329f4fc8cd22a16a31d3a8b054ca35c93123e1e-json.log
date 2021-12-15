@@ -1,4 +1,0 @@
-{"log":"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.6. Set the 'ServerName' directive globally to suppress this message\n","stream":"stderr","time":"2021-11-30T11:50:19.344470006Z"}
-{"log":"AH00558: apache2: Could not reliably determine the server's fully qualified domain name, using 172.18.0.6. Set the 'ServerName' directive globally to suppress this message\n","stream":"stderr","time":"2021-11-30T11:50:19.361588436Z"}
-{"log":"[Tue Nov 30 11:50:19.389715 2021] [mpm_prefork:notice] [pid 1] AH00163: Apache/2.4.48 (Debian) PHP/7.4.24 configured -- resuming normal operations\n","stream":"stderr","time":"2021-11-30T11:50:19.389941998Z"}
-{"log":"[Tue Nov 30 11:50:19.389769 2021] [core:notice] [pid 1] AH00094: Command line: 'apache2 -D FOREGROUND'\n","stream":"stderr","time":"2021-11-30T11:50:19.389959882Z"}

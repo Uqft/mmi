@@ -1,0 +1,7 @@
+# -------------  Dockerfile --------------
+FROM ubuntu:latest
+RUN mkdir -p /usr/goclt
+COPY . /usr/goclt
+RUN apt-get update && apt-get upgrade -y 
+WORKDIR /usr/goclt
+CMD ["./script.sh"]
