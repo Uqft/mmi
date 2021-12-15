@@ -1,5 +1,5 @@
 - list: commands
-  items: [sudo, su, ls, pwd]
+  items: [sudo, su, ls]
 
 - rule: commands
   desc: Escape from container
