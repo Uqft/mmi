@@ -27,8 +27,6 @@ def txtlog_reading():
 def main():
     message_list = txtlog_reading()
     log_list = []
-    #print(message_list[0])
-    #print(type(ast.literal_eval(message_list[0])))
 
     for i in range(len(message_list)):
         message = ast.literal_eval(message_list[i])
@@ -68,5 +66,4 @@ def main():
                 writer.writerows(log)
         
 if __name__ == '__main__':
-    # csv_create()
     main()
